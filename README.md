@@ -1,9 +1,11 @@
 <img align="left" src="./images/sloth.png">
-
+<br>
 Discord: <a href="https://discord.com/users/gaddo#5608">Gaddo#5608</a><br>
 Email: <a href="mailto:matthewjgadsden@gmail.com">matthewjgadsden@gmail.com</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/matthew-gadsden-a27338192/">Matthew Gadsden</a>
-
+<br>
+<br>
+<br>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MatthewGadsden&theme=calm&date_format=j%20M%5B%20Y%5D" width="425">
   <img src="https://github-readme-stats.vercel.app/api?username=MatthewGadsden&show_icons=true&theme=calm" width="400">
