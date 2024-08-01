@@ -2,7 +2,10 @@ Discord: <a href="https://discord.com/users/gaddo#5608">Gaddo#5608</a><br>
 Email: <a href="mailto:matthewjgadsden@gmail.com">matthewjgadsden@gmail.com</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/matthew-gadsden-a27338192/">Matthew Gadsden</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatthewGadsden&theme=calm&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatthewGadsden&theme=calm&date_format=j%20M%5B%20Y%5D" width="425">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthewGadsden&show_icons=true&theme=calm" width="400">
+</div>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
