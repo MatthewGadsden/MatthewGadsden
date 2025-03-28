@@ -9,7 +9,7 @@ LinkedIn: <a href="https://www.linkedin.com/in/matthew-gadsden-a27338192/">Matth
 <br>
 <div>
   <a href="https://git.io/streak-stats"></a>
-  <img src="https://streak-stats.demolab.com?user=MatthewGadsden&theme=slateorange" alt="GitHub Streak" width="425"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MatthewGadsden&theme=slateorange" alt="GitHub Streak" width="425"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MatthewGadsden&show_icons=true&theme=slateorange" width="400">
 </div>
 
