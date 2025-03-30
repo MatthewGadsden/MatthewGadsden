@@ -27,4 +27,4 @@ LinkedIn: <a href="https://www.linkedin.com/in/matthew-gadsden-a27338192/">Matth
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
