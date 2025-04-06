@@ -8,9 +8,9 @@ LinkedIn: <a href="https://www.linkedin.com/in/matthew-gadsden-a27338192/">Matth
 <br>
 <br>
 <div>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MatthewGadsden&theme=slateorange" alt="GitHub Streak" width="320"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MatthewGadsden&show_icons=true&theme=slateorange" width="302">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewGadsden&layout=compact&theme=slateorange" width="230"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=MatthewGadsden&theme=slateorange" alt="GitHub Streak" width="310"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthewGadsden&show_icons=true&theme=slateorange" width="290">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewGadsden&layout=compact&theme=slateorange" width="220"/>
 </div>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
